@@ -26,16 +26,6 @@ def extract_text_from_pdf(pdf_file):
         st.error("Failed to fetch from pdf: " + str(e))
         return None
 
-# def handle_translator(text):        كود ما منه اي فايده
-#     translator = Translator()
-#     try:
-#         translation = translator.translate(text, dest='ar')
-#         return translation.text
-#
-#     except Exception as e:
-#         st.error(f"Failed to translate text: {str(e)}")
-#         return None
-
 def get_response(text):
         prompt = f'''
                 You are an expert in finding keywords that summarizes and captures the essence of text. You will be given text delimited by four backquotes
