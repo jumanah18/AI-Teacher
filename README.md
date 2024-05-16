@@ -1,2 +1,2 @@
 # AI-Teacher
-A python project that me and my amazing team worked on that assess students with their studies. 
+A python project that I and my team worked on. It is a comprehensive study guide website that integrates cutting-edge AI technologies to enhance the learning experience. Our platform offers a suite of functionalities aimed at making study sessions more productive and engaging. Key features include PDF extraction for lectures that they will upload, Arabic translation, YouTube video suggestions, Chatting with a professional chatbot, and Testing their information about the topic using a quizlet bot.
